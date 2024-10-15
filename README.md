@@ -1,12 +1,24 @@
-🚀 Node.js Developer | 🎓 Comsats University Graduate | 💻 Backend Enthusiast | 🎮 Part-Time Gamer
-I'm a passionate software developer specializing in backend web development, with a particular love for Node.js. I enjoy crafting efficient and scalable solutions, and I'm always on the lookout for new technologies and challenges in the backend world.
+# 👋 Hello, I'm Muhammad Abdullah!
 
-🌟 What I'm Into:
-Backend Development: Node.js, Express, REST APIs
-Databases: MongoDB, MySQL
-Version Control: Git, GitHub
-Web Development: JavaScript, HTML, CSS
-🎓 Education:
-Bachelor's in Software Engineering - Comsats University Lahore
-🎮 Fun Fact:
-When I'm not coding, you can find me gaming—it's my way of recharging and finding creativity in different environments!
+## 🚀 Node.js Developer | 🎓 Comsats University Graduate | 💻 Backend Enthusiast | 🎮 Part-Time Gamer
+
+I'm a passionate software developer specializing in **Backend Development** with a focus on **Node.js**. I enjoy building efficient, scalable applications and I'm always exploring new technologies to deepen my knowledge.
+
+### 🌟 What I Do:
+- **Backend Development**: Node.js, Express, REST APIs
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+- **Web Technologies**: JavaScript, HTML, CSS
+
+### 🎓 Education:
+- **Bachelor's in Software Engineering**  
+  *Comsats University Lahore*
+
+### 🎮 Fun Fact:
+When I'm not coding, I’m gaming! It’s my go-to for relaxation and sparking creativity.
+
+### 📫 Let's Connect:
+- [GitHub](https://github.com/Abdullah-warraich-ch)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-949b26195/)
+
+Looking forward to connect.
